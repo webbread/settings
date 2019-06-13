@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping ext="back20141010" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
